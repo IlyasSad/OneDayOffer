@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bignumber.js": "^9.1.2",
+    "web3": "^4.10.0"
+  },
+  "scripts": {
+    "start": "ts-node Main.ts",
+    "build": "tsc"
+  }
+}
